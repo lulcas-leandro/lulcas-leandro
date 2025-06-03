@@ -10,30 +10,7 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
 ### 💻 Linguagens & Tecnologias
 
 <p align="left">
-  <img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  <img
-    align="left"
-    alt="Flask"
-    title="Flask"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-  />
-  <img
-    align="left"
-    alt="kubernetes logo"
-    title="Kubernetes"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-  />
+
   <img
     align="left"
     alt="HTML5"
@@ -60,37 +37,21 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
   />
   <img
     align="left"
-    alt="Docker"
-    title="Docker"
+    alt="typescript"
+    title="TypeScript"
     width="30px"
     style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   />
   <img
     align="left"
-    alt="Linux"
-    title="Linux"
+    alt="Python"
+    title="Python"
     width="30px"
     style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
     <img
-    align="left"
-    alt="Apps Script"
-    title="Apps Script"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-  />
-  <img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  <img
     align="left"
     alt="Selenium"
     title="Selenium"
@@ -100,20 +61,61 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
   />
   <img
     align="left"
-    alt="Tkinter"
-    title="Tkinter"
+    alt="Flask"
+    title="Flask"
     width="30px"
     style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
   />
   <img
     align="left"
-    alt="AppSheet"
-    title="AppSheet"
+    alt="kubernetes logo"
+    title="Kubernetes"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+  />
+  <img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+  />
+      <img
+    align="left"
+    alt="Apps Script"
+    title="Apps Script"
     width="30px"
     style="padding-right:10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
   />
+  <img
+    align="left"
+    alt="GoogleCloud"
+    title="Google Cloud"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+  />
+    <img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+  <img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  />
+
   <br/><br/>
 </p>
 
