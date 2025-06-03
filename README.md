@@ -32,7 +32,7 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
     title="FastAPI"
     width="30px"
     style="padding-right:10px"
-    src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"
+    src="https://fastapi.tiangolo.com"
   />
   <img
     align="left"
