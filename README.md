@@ -28,11 +28,11 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
   />
   <img
     align="left"
-    alt="FastAPI"
-    title="FastAPI"
+    alt="kubernetes logo"
+    title="Kubernetes"
     width="30px"
     style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
   />
   <img
     align="left"
