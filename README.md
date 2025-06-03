@@ -1,16 +1,155 @@
-## Hi there 👋
+# 👨‍💻 Lucas Leandro
 
-<!--
-**lulcas-leandro/lulcas-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Fullstack | DevOps  `**
 
-Here are some ideas to get you started:
+Olá! Sou Lucas, tenho 28 anos e moro em São Paulo. Estou terminando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, com conclusão prevista para 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho construindo soluções para gerenciar setores internos com Flask para web ou Tkinter com TkBootstrap para desktop. Também desenvolvi projetos no AppSheet integrados à API do Tiny via Apps Script (como o Conexão CS e o StockTV), e criei uma API de encomenda de peças usando Flask, HTML/CSS e JavaScript. Criei este espaço no GitHub para compartilhar alguns desses trabalhos. Ainda estou ajudando a estruturar o setor de tecnologia na empresa, então tenho muito a aprender, mas estou empolgado com os desafios.
+
+
+### 💻 Linguagens & Tecnologias
+
+<p align="left">
+  <img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  <img
+    align="left"
+    alt="Flask"
+    title="Flask"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+  />
+  <img
+    align="left"
+    alt="FastAPI"
+    title="FastAPI"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+  />
+  <img
+    align="left"
+    alt="HTML5"
+    title="HTML5"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  <img
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+  <img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  <img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+  />
+  <img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  />
+    <img
+    align="left"
+    alt="Apps Script"
+    title="Apps Script"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+  />
+  <img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+  <img
+    align="left"
+    alt="Selenium"
+    title="Selenium"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+  />
+  <img
+    align="left"
+    alt="Tkinter"
+    title="Tkinter"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  <img
+    align="left"
+    alt="AppSheet"
+    title="AppSheet"
+    width="30px"
+    style="padding-right:10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+  />
+  <br/><br/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+
+  <img 
+    alt="Top Linguagens" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulcas-leandro&theme=tokyonight&layout=compact&custom_title=Top%20Tecnologias" 
+    height="180" 
+  />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p align="">
+  <a href="mailto:lucasleandro.cdev@gmail.com">
+    <img 
+      alt="Email" 
+      title="Envie um e-mail" 
+      src="https://custom-icon-badges.demolab.com/badge/Email-lucasleandro.cdev@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" 
+      style="margin-right: 10px;"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasleandroc">
+    <img 
+      alt="LinkedIn" 
+      title="LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-lucasleandro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      style="margin-right: 10px;"
+    />
+  </a>
+
+</p>
