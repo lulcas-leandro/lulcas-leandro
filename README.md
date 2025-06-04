@@ -69,14 +69,6 @@ Atualmente trabalho construindo soluções para gerenciar setores internos com F
   />
   <img
     align="left"
-    alt="kubernetes logo"
-    title="Kubernetes"
-    width="30px"
-    style="padding-right:10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-  />
-  <img
-    align="left"
     alt="Docker"
     title="Docker"
     width="30px"
