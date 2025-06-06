@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Leandro
 
-**`Desenvolvedor Fullstack | DevOps  `**
+**`Desenvolvedor Fullstack | DevOps `**
 
 Olá! Sou Lucas, tenho 28 anos e moro em São Paulo. Estou terminando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, com conclusão prevista para 2025.
 
