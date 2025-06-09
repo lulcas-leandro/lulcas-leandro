@@ -119,7 +119,7 @@ Atualmente trabalho construindo e gerencianto sistemas e soluções para o setor
 
   <img 
     alt="Top Linguagens" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulcas-leandro&theme=tokyonight&layout=compact&custom_title=Top%10Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulcas-leandro&theme=tokyonight&layout=compact&custom_title=Top%20Tecnologias" 
     height="180" 
   />
 </p>
