@@ -116,7 +116,6 @@ Atualmente trabalho construindo e gerencianto sistemas e soluções para o setor
 ### 📊 Estatísticas
 
 <div align="center">
-  alt="Top Linguagens" Add commentMore actions
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lulcas-leandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
     
