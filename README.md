@@ -4,7 +4,7 @@
 
 Olá! Sou Lucas, tenho 28 anos e moro em São Paulo. Estou terminando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, com conclusão prevista para 2025.
 
-Atualmente trabalho construindo soluções para gerenciar setores internos com Flask para web ou Tkinter com TkBootstrap para desktop. Também desenvolvi projetos no AppSheet integrados à API do Tiny via Apps Script (como o Conexão CS e o StockTV), e criei uma API de encomenda de peças usando Flask, HTML/CSS e JavaScript. Criei este espaço no GitHub para compartilhar alguns desses trabalhos. Ainda estou ajudando a estruturar o setor de tecnologia na empresa, então tenho muito a aprender, mas estou empolgado com os desafios.
+Atualmente trabalho construindo e gerencianto sistemas e soluções para o setores de vendas, marketing, administrativo, customer success e outros. Criei este espaço no GitHub para compartilhar alguns desses trabalhos. Ainda estou ajudando a estruturar o setor de tecnologia na empresa, então tenho muito a aprender, mas estou empolgado com os desafios.
 
 
 ### 💻 Linguagens & Tecnologias
