@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Fullstack | DevOps `**
 
-Olá! Sou Lucas, tenho 28 anos e moro em São Paulo. Estou terminando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, com conclusão prevista para 2025.
+Olá! Sou Lucas, tenho 28 anos e moro em São Paulo. Estou terminando o Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-Atualmente trabalho construindo e gerenciando sistemas e soluções para os setores de vendas, marketing, administrativo, customer success e outros. Criei este espaço no GitHub para compartilhar alguns desses trabalhos. Ainda estou ajudando a estruturar o setor de tecnologia na empresa, então tenho muito a aprender, mas estou empolgado com os desafios.
+Atualmente trabalho construindo e gerenciando sistemas e soluções para os setores de vendas, marketing, administrativo, customer success e outros. Criei este espaço no GitHub para compartilhar alguns desses trabalhos e aprendizados.
 
 
 ### 💻 Linguagens & Tecnologias
