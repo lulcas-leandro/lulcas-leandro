@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full-Stack especializado em Python e Flask, com experiência em desenvolvimento de sistemas empresariais completos. Atuo na criação de soluções que integram frontend, backend e infraestrutura, utilizando tecnologias modernas como Docker e práticas DevOps para entregar aplicações robustas e escaláveis.
+Desenvolvedor Full-Stack especializado em Python, com experiência em desenvolvimento de sistemas empresariais completos. Atuo na criação de soluções que integram frontend, backend e infraestrutura, utilizando tecnologias modernas como Docker e práticas DevOps para entregar aplicações robustas e escaláveis.
 
 ## Minha Stack de Tecnologias
 
