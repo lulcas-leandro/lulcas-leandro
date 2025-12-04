@@ -38,6 +38,7 @@ Desenvolvedor Full-Stack especializado em Python, com experiência em desenvolvi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
+---
 
 ### Estudando Atualmente
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
